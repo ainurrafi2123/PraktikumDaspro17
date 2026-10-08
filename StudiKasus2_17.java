@@ -46,7 +46,7 @@ public class StudiKasus2_17 {
           System.out.println("Dokumen Tidak Lengkap (Kurang " + kurangDokumen + " dokumen). Silahkan Memenuhi Kurangnya Dokumen");
         }
       } else {
-        System.out.println("Kegiatan lainya tidak memperoleh dana penghargaan.");
+        System.out.println("Kegiatan lainnya tidak memperoleh dana penghargaan.");
       }
     }
 
